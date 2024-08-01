@@ -1,0 +1,281 @@
+{
+  "vaultName": "content",
+  "lastExport": 1722552676055,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon check-color check-bg pathfinder",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Shadows of Ionia/Factions/Kinkou Order.md",
+    "Shadows of Ionia/Factions/Navori Brotherhood.md",
+    "Shadows of Ionia/Factions/Shadow Order.md",
+    "Shadows of Ionia/Locations/resources/ionia_map.jpg",
+    "Shadows of Ionia/Locations/resources/runeterra_map.jpg",
+    "Shadows of Ionia/Locations/resources/thanze_map.jpg",
+    "Shadows of Ionia/Locations/Runeterra.md",
+    "Shadows of Ionia/Locations/Ionia.md",
+    "Shadows of Ionia/Locations/Thanze.md",
+    "Shadows of Ionia/NPCs/resources/sai_splash.webp",
+    "Shadows of Ionia/NPCs/resources/shen_splash.webp",
+    "Shadows of Ionia/NPCs/resources/zed_splash.jpg",
+    "Shadows of Ionia/NPCs/Sai.md",
+    "Shadows of Ionia/NPCs/Shen.md",
+    "Shadows of Ionia/NPCs/Zed.md",
+    "Shadows of Ionia/PCs/resources/isa_portrait.jpg",
+    "Shadows of Ionia/PCs/Higgs.md",
+    "Shadows of Ionia/PCs/Isa.md",
+    "Shadows of Ionia/PCs/Xhokar.html",
+    "Shadows of Ionia/PCs/Xhokar.md",
+    "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "Shadows of Ionia/Factions/Kinkou Order.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 80,
+      "exportedPath": "Shadows of Ionia/Factions/Kinkou Order.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Factions/Navori Brotherhood.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 0,
+      "exportedPath": "Shadows of Ionia/Factions/Navori Brotherhood.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Factions/Shadow Order.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 46,
+      "exportedPath": "Shadows of Ionia/Factions/Shadow Order.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Locations/resources/ionia_map.jpg": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 657000,
+      "exportedPath": "Shadows of Ionia/Locations/resources/ionia_map.jpg",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Locations/resources/runeterra_map.jpg": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 1004421,
+      "exportedPath": "Shadows of Ionia/Locations/resources/runeterra_map.jpg",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Locations/resources/thanze_map.jpg": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 578544,
+      "exportedPath": "Shadows of Ionia/Locations/resources/thanze_map.jpg",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Locations/Runeterra.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 275,
+      "exportedPath": "Shadows of Ionia/Locations/Runeterra.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Locations/Ionia.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 301,
+      "exportedPath": "Shadows of Ionia/Locations/Ionia.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Locations/Thanze.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 164,
+      "exportedPath": "Shadows of Ionia/Locations/Thanze.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/NPCs/resources/sai_splash.webp": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 62752,
+      "exportedPath": "Shadows of Ionia/NPCs/resources/sai_splash.webp",
+      "dependencies": []
+    },
+    "Shadows of Ionia/NPCs/resources/shen_splash.webp": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 67182,
+      "exportedPath": "Shadows of Ionia/NPCs/resources/shen_splash.webp",
+      "dependencies": []
+    },
+    "Shadows of Ionia/NPCs/resources/zed_splash.jpg": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 369221,
+      "exportedPath": "Shadows of Ionia/NPCs/resources/zed_splash.jpg",
+      "dependencies": []
+    },
+    "Shadows of Ionia/NPCs/Sai.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 289,
+      "exportedPath": "Shadows of Ionia/NPCs/Sai.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/NPCs/Shen.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 398,
+      "exportedPath": "Shadows of Ionia/NPCs/Shen.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/NPCs/Zed.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 321,
+      "exportedPath": "Shadows of Ionia/NPCs/Zed.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/PCs/resources/isa_portrait.jpg": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 298687,
+      "exportedPath": "Shadows of Ionia/PCs/resources/isa_portrait.jpg",
+      "dependencies": []
+    },
+    "Shadows of Ionia/PCs/Higgs.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 46,
+      "exportedPath": "Shadows of Ionia/PCs/Higgs.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/PCs/Isa.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 1187,
+      "exportedPath": "Shadows of Ionia/PCs/Isa.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/PCs/Xhokar.html": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 1834334,
+      "exportedPath": "Shadows of Ionia/PCs/Xhokar.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/PCs/Xhokar.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 48,
+      "exportedPath": "Shadows of Ionia/PCs/Xhokar.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 8,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1722552676055,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    }
+  }
+}
