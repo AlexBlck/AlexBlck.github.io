@@ -1,0 +1,470 @@
+{
+  "vaultName": "content",
+  "lastExport": 1722556277974,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-light check-color check-bg pathfinder",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Shadows of Ionia/Factions/Kinkou Order.md",
+    "Shadows of Ionia/Factions/Navori Brotherhood.md",
+    "Shadows of Ionia/Factions/Shadow Order.md",
+    "Shadows of Ionia/Locations/resources/ionia_map.jpg",
+    "Shadows of Ionia/Locations/resources/runeterra_map.jpg",
+    "Shadows of Ionia/Locations/resources/thanze_map.jpg",
+    "Shadows of Ionia/Locations/Runeterra.md",
+    "Shadows of Ionia/Locations/Ionia.md",
+    "Shadows of Ionia/Locations/Thanze.md",
+    "Shadows of Ionia/NPCs/resources/sai_splash.webp",
+    "Shadows of Ionia/NPCs/resources/shen_splash.webp",
+    "Shadows of Ionia/NPCs/resources/zed_splash.jpg",
+    "Shadows of Ionia/NPCs/Higgs.md",
+    "Shadows of Ionia/NPCs/Lee Sin.md",
+    "Shadows of Ionia/NPCs/Sai.md",
+    "Shadows of Ionia/NPCs/Shen.md",
+    "Shadows of Ionia/NPCs/Zed.md",
+    "Shadows of Ionia/PCs/Isa.md",
+    "Shadows of Ionia/PCs/Miyamoto.md",
+    "Shadows of Ionia/PCs/Xhokar.md",
+    "index.md",
+    "shadows-of-ionia/pcs/resources/isa_portrait.jpg",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Shadows of Ionia/Factions/Kinkou Order.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 80,
+      "exportedPath": "shadows-of-ionia/factions/kinkou-order.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Factions/Navori Brotherhood.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 0,
+      "exportedPath": "shadows-of-ionia/factions/navori-brotherhood.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Factions/Shadow Order.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 46,
+      "exportedPath": "shadows-of-ionia/factions/shadow-order.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Locations/resources/ionia_map.jpg": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 657000,
+      "exportedPath": "shadows-of-ionia/locations/resources/ionia_map.jpg",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Locations/resources/runeterra_map.jpg": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 1004421,
+      "exportedPath": "shadows-of-ionia/locations/resources/runeterra_map.jpg",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Locations/resources/thanze_map.jpg": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 578544,
+      "exportedPath": "shadows-of-ionia/locations/resources/thanze_map.jpg",
+      "dependencies": []
+    },
+    "Shadows of Ionia/Locations/Runeterra.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 275,
+      "exportedPath": "shadows-of-ionia/locations/runeterra.html",
+      "dependencies": [
+        "shadows-of-ionia/locations/resources/runeterra_map.jpg"
+      ]
+    },
+    "Shadows of Ionia/Locations/Ionia.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 301,
+      "exportedPath": "shadows-of-ionia/locations/ionia.html",
+      "dependencies": [
+        "shadows-of-ionia/locations/resources/ionia_map.jpg"
+      ]
+    },
+    "Shadows of Ionia/Locations/Thanze.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 164,
+      "exportedPath": "shadows-of-ionia/locations/thanze.html",
+      "dependencies": [
+        "shadows-of-ionia/locations/resources/thanze_map.jpg"
+      ]
+    },
+    "Shadows of Ionia/NPCs/resources/sai_splash.webp": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 62752,
+      "exportedPath": "shadows-of-ionia/npcs/resources/sai_splash.webp",
+      "dependencies": []
+    },
+    "Shadows of Ionia/NPCs/resources/shen_splash.webp": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 67182,
+      "exportedPath": "shadows-of-ionia/npcs/resources/shen_splash.webp",
+      "dependencies": []
+    },
+    "Shadows of Ionia/NPCs/resources/zed_splash.jpg": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 369221,
+      "exportedPath": "shadows-of-ionia/npcs/resources/zed_splash.jpg",
+      "dependencies": []
+    },
+    "Shadows of Ionia/NPCs/Higgs.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 1,
+      "exportedPath": "shadows-of-ionia/npcs/higgs.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/NPCs/Lee Sin.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 0,
+      "exportedPath": "shadows-of-ionia/npcs/lee-sin.html",
+      "dependencies": []
+    },
+    "Shadows of Ionia/NPCs/Sai.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 289,
+      "exportedPath": "shadows-of-ionia/npcs/sai.html",
+      "dependencies": [
+        "shadows-of-ionia/npcs/resources/sai_splash.webp"
+      ]
+    },
+    "Shadows of Ionia/NPCs/Shen.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 398,
+      "exportedPath": "shadows-of-ionia/npcs/shen.html",
+      "dependencies": [
+        "shadows-of-ionia/npcs/resources/shen_splash.webp"
+      ]
+    },
+    "Shadows of Ionia/NPCs/Zed.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 321,
+      "exportedPath": "shadows-of-ionia/npcs/zed.html",
+      "dependencies": [
+        "shadows-of-ionia/npcs/resources/zed_splash.jpg"
+      ]
+    },
+    "Shadows of Ionia/PCs/Isa.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 1142,
+      "exportedPath": "shadows-of-ionia/pcs/isa.html",
+      "dependencies": [
+        "shadows-of-ionia/pcs/resources/isa_portrait.jpg"
+      ]
+    },
+    "Shadows of Ionia/PCs/Miyamoto.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 381,
+      "exportedPath": "shadows-of-ionia/pcs/miyamoto.html",
+      "dependencies": [
+        "shadows-of-ionia/pcs/resources/isa_portrait.jpg"
+      ]
+    },
+    "Shadows of Ionia/PCs/Xhokar.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 366,
+      "exportedPath": "shadows-of-ionia/pcs/xhokar.html",
+      "dependencies": [
+        "shadows-of-ionia/pcs/resources/isa_portrait.jpg"
+      ]
+    },
+    "index.md": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 8,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "shadows-of-ionia/locations/resources/runeterra_map.jpg": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 1004421,
+      "exportedPath": "shadows-of-ionia/locations/resources/runeterra_map.jpg",
+      "dependencies": []
+    },
+    "shadows-of-ionia/locations/resources/ionia_map.jpg": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 657000,
+      "exportedPath": "shadows-of-ionia/locations/resources/ionia_map.jpg",
+      "dependencies": []
+    },
+    "shadows-of-ionia/locations/resources/thanze_map.jpg": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 578544,
+      "exportedPath": "shadows-of-ionia/locations/resources/thanze_map.jpg",
+      "dependencies": []
+    },
+    "shadows-of-ionia/npcs/resources/sai_splash.webp": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 62752,
+      "exportedPath": "shadows-of-ionia/npcs/resources/sai_splash.webp",
+      "dependencies": []
+    },
+    "shadows-of-ionia/npcs/resources/shen_splash.webp": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 67182,
+      "exportedPath": "shadows-of-ionia/npcs/resources/shen_splash.webp",
+      "dependencies": []
+    },
+    "shadows-of-ionia/npcs/resources/zed_splash.jpg": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 369221,
+      "exportedPath": "shadows-of-ionia/npcs/resources/zed_splash.jpg",
+      "dependencies": []
+    },
+    "shadows-of-ionia/pcs/resources/isa_portrait.jpg": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 298687,
+      "exportedPath": "shadows-of-ionia/pcs/resources/isa_portrait.jpg",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 24132,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 1220,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 973925,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 711831,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1722556277974,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
