@@ -1,0 +1,48 @@
+papers:
+
+  - title: "VIXEN: Visual Text Comparison Network for Image Difference Captioning"
+    authors: "<b>Alexander Black</b>, Jing Shi, Yifei Fan, Tu Bui, John Collomosse"
+    venue: "AAAI 2024"
+    paper_pdf: "https://personalpages.surrey.ac.uk/j.collomosse/pubs/Black-AAAI-2024.pdf"
+
+  - title: "DECORAIT-DECentralized Opt-in/out Registry for AI Training"
+    authors: "Kar Balan, Andrew Gilbert, <b>Alexander Black</b>, Simon Jenni, Andy Parsons, John Collomosse"
+    venue: "CVMP 2023"
+    paper_pdf: "https://arxiv.org/pdf/2309.14400"
+
+  - title: "VADER: Video Alignment Differencing and Retrieval"
+    authors: "<b>Alexander Black</b>, Simon Jenni, Tu Bui, Md Mehrab Tanjim, Stefano Petrangeli, Ritwik Sinha, Viswanathan Swaminathan, John Collomosse"
+    venue: "ICCV 2023"
+    paper_pdf: "http://openaccess.thecvf.com/content/ICCV2023/papers/Black_VADER_Video_Alignment_Differencing_and_Retrieval_ICCV_2023_paper.pdf"
+    data: "https://huggingface.co/datasets/AlexBlck/ANAKIN"
+
+  - title: "Audio-visual contrastive learning with temporal self-supervision"
+    authors: "Simon Jenni, <b>Alexander Black</b>, John Collomosse"
+    venue: "AAAI 2023"
+    paper_pdf: "https://personalpages.surrey.ac.uk/j.collomosse/pubs/Jenni-AAAI-2023.pdf"
+
+  - title: "VPN: Video provenance network for robust content attribution"
+    authors: "<b>Alexander Black</b>, Tu Bui, Simon Jenni, Viswanathan Swaminathan, John Collomosse"
+    venue: "CVMP 2021"
+    paper_pdf: "/assets/publications/2022_newsbridge/paper.pdf"
+
+  - title: "Deep Image Comparator: Learning To Visualize Editorial Change"
+    authors: "<b>Alexander Black</b>, Tu Bui, Hailin Jin, Viswanathan Swaminathan, John Collomosse"
+    venue: "CVPR Workshop on Media Forensics 2021"
+    paper_pdf: "https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Black_Deep_Image_Comparator_Learning_To_Visualize_Editorial_Change_CVPRW_2021_paper.pdf"
+    code: "https://huggingface.co/spaces/AlexBlck/image-comparator"
+  - title: "Audio-visual contrastive learning with temporal self-supervision"
+    authors: "Simon Jenni, <b>Alexander Black</b>, John Collomosse"
+    venue: "AAAI 2023"
+    paper_pdf: "https://personalpages.surrey.ac.uk/j.collomosse/pubs/Jenni-AAAI-2023.pdf"
+
+    video: "https://youtu.be/5dIaM2-Zq3I"
+
+  - title: "Compositional Sketch Searh"
+    authors: "<b>Alexander Black</b>, Tu Bui, Long Mai, Hailin Jin, John Collomosse"
+    venue: "ICIP 2021"
+    paper_pdf: "https://ieeexplore.ieee.org/iel7/9506008/9506009/09506609.pdf"
+
+  - title: "Aladin-nst: Self-supervised disentangled representation learning of artistic style through neural style transfer"
+    authors: "Dan Ruta, Gemma Canet Tarres, <b>Alexander Black</b>, Andrew Gilbert, John Collomosse"
+    paper_pdf: "https://arxiv.org/pdf/2304.05755"
